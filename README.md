@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Gustavo Guirele
 
-<!--
-**guirele/guirele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ☕ **Java Developer (Student)  
+🖥️ Java | Swing | OOP  
+🌱 Learning backend and software engineering fundamentals**
+  
+  🇧🇷 Brazil
 
-Here are some ideas to get you started:
+**I am a student** learning **Java** programming. I build small applications using Swing and I am currently improving my understanding of program flow and logic. I also plan to learn **HTML** and **JavaScript.**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/guirele">
+    <img src="https://img.shields.io/badge/GitHub-guirele-181717?style=for-the-badge&logo=github" />
+  </a>
+  
+---
+
+## 🧠What I'm working on
+
+### -   Small Java applications using Swing  
+### -   Programming logic and algorithms  
+### -   Object-Oriented Programming (OOP)
+
+---
+
+## 🛠️ Tech Stack
+
+### 📚 Currently learning
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Swing](https://img.shields.io/badge/Swing-2C2255?style=for-the-badge&logo=java&logoColor=white)
+### - Control flow (loops, conditions, functions)  
+### - Software engineering fundamentals  
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guirele&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirele&layout=compact&theme=tokyonight" />
+</p>
