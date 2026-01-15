@@ -9,25 +9,25 @@
 **I am a student** learning **Java** programming. I build small applications using Swing and I am currently improving my understanding of program flow and logic. I also plan to learn **HTML** and **JavaScript.**
 ---
 
-## 🌐 Where to find me
+# 🌐 Where to find me
 
 <a href="https://github.com/guirele">
   <img src="https://img.shields.io/badge/GitHub-guirele-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://discord.com/users/guirele_">
 <img src="https://img.shields.io/badge/Discord-guirele_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
   
 ---
 
-## 🧠What I'm working on
+# 🧠 What I'm working on
 
 ### -   Small Java applications using Swing  
 ### -   Programming logic and algorithms  
 ### -   Object-Oriented Programming (OOP)
 
 ---
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 📚 Currently learning
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
