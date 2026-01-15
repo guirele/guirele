@@ -11,14 +11,11 @@
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/guirele">
-    <img src="https://img.shields.io/badge/GitHub-guirele-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://discord.com/users/737444572556296355">
-    <img src="https://img.shields.io/badge/Discord-guirele-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a> 
-</p>
+<a href="https://github.com/guirele">
+  <img src="https://img.shields.io/badge/GitHub-guirele-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://discord.com/users/guirele_">
+<img src="https://img.shields.io/badge/Discord-guirele_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   
 ---
 
